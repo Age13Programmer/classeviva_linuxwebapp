@@ -3,5 +3,5 @@ Name=Classeviva Web Studenti
 Exec=python3 /home/$USER/.cvv/classeviva_webstudenti.py
 Icon=/home/$USER/.cvv/icons/classeviva_studenti.png
 Type=Application
-Categories=PythonApps;
+Categories=Network;
 StartupNotify=true
