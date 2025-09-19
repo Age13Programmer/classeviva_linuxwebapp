@@ -2,7 +2,7 @@
 
 A simple Python web app that opens the official **ClasseViva** login page in a standalone window.
 
-## But what is Classeviva
+## Classeviva
 ClasseViva is an Italian electronic gradebook of Spaggiari Parma Group used by schools to track attendance, grades, and student progress
 
 ## The app
@@ -18,6 +18,7 @@ It is just a web launcher and does **not include or redistribute ClasseViva** in
 
 - Python 3.x
 - [pywebview](https://pywebview.flowrl.com/) library
+- KDE Plasma 6
 
 Install dependencies with:
 
