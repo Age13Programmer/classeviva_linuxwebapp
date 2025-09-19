@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Classeviva Web Famiglie
+Exec=python3 /home/$USER/cvv/classeviva_webfamiglie.py
+Icon=/home/$USER/cvv/icons/classeviva_famiglie.png
+Type=Application
+Categories=Network;
+StartupNotify=true
